@@ -19,6 +19,11 @@ Explored Spotify dataset to find trends in song popularity and genre distributio
 ## 🛠️ Tech Stack
 - **Language:** R
 - **Libraries:** ggplot2, dplyr
+- **shiny:** Used for building interactive web applications with R.
+- dplyr, ggplot2, tidyr, knitr, kableExtra: Data manipulation and visualization libraries
+- **forecast:** Used for time series forecasting.
+
+
 
 ---
 
